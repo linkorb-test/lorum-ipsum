@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@commitlint/cli": "^8.0.0",
+    "@commitlint/config-conventional": "^8.0.0",
+    "conventional-changelog-cli": "^2.0.21",
+    "husky": "^2.4.1"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  }
+}
