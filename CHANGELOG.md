@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/linkorb-test/lorum-ipsum/compare/v1.7.0...v1.8.0) (2019-06-23)
+
+
+### Docz
+
+* list usage of settings app ([3e681ec](https://github.com/linkorb-test/lorum-ipsum/commit/3e681ec))
+
+
+### Featz
+
+* add npm run publish script ([75b821e](https://github.com/linkorb-test/lorum-ipsum/commit/75b821e))
+
+
+
 ## [1.7.0](https://github.com/linkorb-test/lorum-ipsum/compare/v1.6.1...v1.7.0) (2019-06-23)
 
 
