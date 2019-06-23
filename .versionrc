@@ -1,10 +1,11 @@
 {
   "types": [
-    {"type":"feat","section":"Features"},
-    {"type":"fix","section":"Bug Fixes"},
+    {"type":"feat","section":"Featz"},
+    {"type":"fix","section":"Bug Fixez"},
     {"type":"test","section":"Tests", "hidden": true},
     {"type":"build","section":"Build System", "hidden": true},
-    {"type":"ci","hidden":true}
+    {"type":"ci","hidden":true},
+    {"type":"chore", "section": "Chorez", "hidden":false}
   ],
   "issueUrlFormat": "https://team.linkorb.com/cards/{{id}}"
 }
