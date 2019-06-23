@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/linkorb-test/lorum-ipsum/compare/v1.3.0...v1.4.0) (2019-06-23)
+
+
+### Featz
+
+* support autotune [#999](https://team.linkorb.com/cards/999) ([2ef074e](https://github.com/linkorb-test/lorum-ipsum/commit/2ef074e))
+
+
+
 ## [1.3.0](https://github.com/linkorb-test/lorum-ipsum/compare/v1.2.4...v1.3.0) (2019-06-23)
 
 
