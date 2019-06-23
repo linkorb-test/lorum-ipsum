@@ -4,6 +4,9 @@
 
 This is an example repo, for testing conventional commits.
 
-Some more info can be found on https://www.conventionalcommits.org/ and https://github.com/conventional-changelog/commitlint
+Some more info can be found on:
+
+* https://www.conventionalcommits.org/
+* https://github.com/conventional-changelog/commitlint
 
 (c)2019 LinkORB
