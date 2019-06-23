@@ -9,4 +9,6 @@ Some more info can be found on:
 * https://www.conventionalcommits.org/
 * https://github.com/conventional-changelog/commitlint
 
+This repo uses https://probot.github.io/apps/settings/ 
+
 (c)2019 LinkORB
