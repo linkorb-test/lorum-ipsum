@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/linkorb-test/lorum-ipsum/compare/v1.4.0...v1.5.0) (2019-06-23)
+
+
+### Featz
+
+* add commitizen ([14cc24d](https://github.com/linkorb-test/lorum-ipsum/commit/14cc24d)), closes [#9991](https://team.linkorb.com/cards/9991)
+
+
+
 ## [1.4.0](https://github.com/linkorb-test/lorum-ipsum/compare/v1.3.0...v1.4.0) (2019-06-23)
 
 
