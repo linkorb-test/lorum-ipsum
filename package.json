@@ -12,6 +12,7 @@
   },
   "scripts": {
     "release": "standard-version"
+    "publish": "standard-version && git push --follow-tags origin master"
   },
   "husky": {
     "hooks": {
