@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/linkorb-test/lorum-ipsum/compare/v1.2.4...v1.3.0) (2019-06-23)
+
+
+### Featz
+
+* add editorconfig ([af0978f](https://github.com/linkorb-test/lorum-ipsum/commit/af0978f))
+
+
+
 ### [1.2.4](https://github.com/linkorb-test/lorum-ipsum/compare/v1.2.3...v1.2.4) (2019-06-23)
 
 
