@@ -2,6 +2,7 @@
   "types": [
     {"type":"feat","section":"Featz"},
     {"type":"fix","section":"Bug Fixez"},
+    {"type":"docs","section":"Docz"},
     {"type":"test","section":"Tests", "hidden": true},
     {"type":"build","section":"Build System", "hidden": true},
     {"type":"ci","hidden":true},
